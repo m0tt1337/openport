@@ -37,12 +37,6 @@ OpenPort is a minimalist GUI-based port scanning tool written in Python. It allo
   - Range: `1 - 500`
   - Output: Open ports will be listed in the results.
 
-## Screenshot
-
-![Screenshot](https://via.placeholder.com/800x400?text=Screenshot+placeholder)
-
-*(Replace the above URL with an actual screenshot URL if needed.)*
-
 ## Contribution
 Contributions are welcome! If you encounter any bugs or have ideas for new features:
 1. Fork the repository.
