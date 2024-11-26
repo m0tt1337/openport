@@ -43,8 +43,5 @@ Contributions are welcome! If you encounter any bugs or have ideas for new featu
 2. Create a new branch for your changes.
 3. Submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
 Developed by m0tt1337
