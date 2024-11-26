@@ -37,17 +37,6 @@ OpenPort is a minimalist GUI-based port scanning tool written in Python. It allo
   - Range: `1 - 500`
   - Output: Open ports will be listed in the results.
 
-## Project Structure
-
-```
-openport/
-├── main.py          # Main application script
-├── logo/            # Directory containing the logo
-│   └── logo.ico     # Icon file for the GUI
-├── README.md        # Project documentation
-└── requirements.txt # Dependencies (if required)
-```
-
 ## Screenshot
 
 ![Screenshot](https://via.placeholder.com/800x400?text=Screenshot+placeholder)
